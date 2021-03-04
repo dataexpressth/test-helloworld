@@ -6,5 +6,11 @@ namespace HelloWorld
         {
             System.Console.WriteLine("Hello World!");
         }
+        
+        void SomeFunction()
+        {
+            //do sth
+            return;
+        }
     }
 }
