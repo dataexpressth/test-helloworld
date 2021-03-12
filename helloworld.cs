@@ -6,5 +6,11 @@ namespace HelloWorld
         {
             System.Console.WriteLine("Hello World!");
         }
+        
+        void SomeFunctionForDSDG-3()
+        {
+            return;
+        }
+     
     }
 }
