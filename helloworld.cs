@@ -6,5 +6,10 @@ namespace HelloWorld
         {
             System.Console.WriteLine("Hello World!");
         }
+        
+        void Love()
+        {
+            return;
+        }
     }
 }
