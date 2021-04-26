@@ -11,5 +11,10 @@ namespace HelloWorld
         {
             return;
         }
+        
+        void Hate()
+        {
+            return;   
+        }
     }
 }
