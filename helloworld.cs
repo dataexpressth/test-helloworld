@@ -6,7 +6,12 @@ namespace HelloWorld
         {
             System.Console.WriteLine("Hello World!");
         }
-        
+
+        void SomeFunction()
+        {
+            //do sth
+            return;
+        }
         void SomeFunctionForDSDG-3()
         {
             return;
@@ -17,7 +22,6 @@ namespace HelloWorld
         {
             return;
         }
-     
-     
+    
     }
 }
