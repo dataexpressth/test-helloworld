@@ -6,15 +6,11 @@ namespace HelloWorld
         {
             System.Console.WriteLine("Hello World!");
         }
-        
-        void Love()
+      
+        void SomeFunction()
         {
+            //do sth
             return;
-        }
-        
-        void Hate()
-        {
-            return;   
         }
     }
 }
