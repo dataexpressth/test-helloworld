@@ -4,10 +4,12 @@ namespace HelloWorld
     class Hello {         
         static void Main(string[] args)
         {
+            //add comment
             System.Console.WriteLine("Hello World!");
         }
-      
-        void SomeFunction()
+
+        //add function for issue SDSP-11
+        void AnotherFunction()
         {
             return;
         }
