@@ -5,17 +5,12 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             System.Console.WriteLine("Hello World!");
+            //add some functionality
         }
       
         void SomeFunction()
         {
             //do sth
-            return;
-        }
-
-        void FunctionforSPA-14 ()
-        {
-            //process something
             return;
         }
 
