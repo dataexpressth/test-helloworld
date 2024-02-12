@@ -9,13 +9,6 @@ namespace HelloWorld
       
         void SomeFunction()
         {
-            //do sth
-            return;
-        }
-
-        void FunctionforSPA-14 ()
-        {
-            //process something
             return;
         }
     }
