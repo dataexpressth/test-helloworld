@@ -8,6 +8,7 @@ namespace CSharpTutorials
 {
     class Program
     {
+        //add comment
         static void Main(string[] args)
         {
             string message = "Hello World!!";
@@ -15,10 +16,7 @@ namespace CSharpTutorials
             Console.WriteLine(message);
         }
         
-        int Add(int a, int b)
-        {
-            return a + b;
-        }
+        
         
         int Multiply(int a, int b)
         {
@@ -26,4 +24,5 @@ namespace CSharpTutorials
         }
     }
 } 
+
 // Random Code
