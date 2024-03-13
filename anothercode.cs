@@ -15,10 +15,6 @@ namespace CSharpTutorials
             Console.WriteLine(message);
         }
         
-        int Add(int a, int b)
-        {
-            return a + b;
-        }
         
         int Multiply(int a, int b)
         {
@@ -27,3 +23,4 @@ namespace CSharpTutorials
     }
 } 
 // Random Code
+// add random code
