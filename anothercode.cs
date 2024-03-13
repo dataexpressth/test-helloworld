@@ -13,12 +13,15 @@ namespace CSharpTutorials
             string message = "Hello World!!";
 
             Console.WriteLine(message);
+
+            Console.WriteLine("Hello RVP");
+        }
+
+        void RandomFunction
+        {
+            return void;
         }
         
-        int Add(int a, int b)
-        {
-            return a + b;
-        }
         
         int Multiply(int a, int b)
         {
@@ -27,3 +30,4 @@ namespace CSharpTutorials
     }
 } 
 // Random Code
+// add random code
