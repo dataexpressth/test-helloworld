@@ -7,10 +7,14 @@ namespace HelloWorld
             //add comment
             System.Console.WriteLine("Hello World!");
         }
-
-        //add function for issue SDSP-11
         void AnotherFunction()
         {
+            return;
+        }
+
+        void NewFunction()
+        {
+            // for DSSP-1
             return;
         }
     }
