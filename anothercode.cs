@@ -11,14 +11,11 @@ namespace CSharpTutorials
         static void Main(string[] args)
         {
             string message = "Hello World!!";
-
+        //Hello This is comment
             Console.WriteLine(message);
         }
         
-        int Add(int a, int b)
-        {
-            return a + b;
-        }
+
         
         int Multiply(int a, int b)
         {
