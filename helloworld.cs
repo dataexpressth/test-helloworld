@@ -8,10 +8,18 @@ namespace HelloWorld
             System.Console.WriteLine("Hello World!");
         }
 
-        //add function for issue SDSP-11
-        void AnotherFunction()
+        void NewFuction(int x)
         {
+            // do something
             return;
         }
+
+        // comment something
+        int DummyFunction()
+        {
+            return 0;
+        }
+
+        
     }
 }
