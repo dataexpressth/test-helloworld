@@ -8,11 +8,13 @@ namespace HelloWorld
             System.Console.WriteLine("Hello World!");
         }
 
-        void SomeFunction()
+        void NewFuction(int x)
         {
+            // do something
             return;
         }
 
+        // comment something
         int DummyFunction()
         {
             return 0;
