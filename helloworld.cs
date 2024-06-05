@@ -8,10 +8,10 @@ namespace HelloWorld
             System.Console.WriteLine("Hello World!");
         }
 
-        //add function for issue SDSP-11
         void AnotherFunction()
         {
             return;
         }
+        // add some comment for TIP-6
     }
 }
