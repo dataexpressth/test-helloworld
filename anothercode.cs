@@ -11,11 +11,9 @@ namespace CSharpTutorials
         static void Main(string[] args)
         {
             string message = "Hello World!!";
-        //Hello This is comment
+        //Add new comment
             Console.WriteLine(message);
         }
-        
-
         
         int Multiply(int a, int b)
         {
