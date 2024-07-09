@@ -11,10 +11,9 @@ namespace CSharpTutorials
         static void Main(string[] args)
         {
             string message = "Hello World!!";
-        //Add new comment
-            Console.WriteLine(message);
-        }
-        
+          
+        //Random interface
+          
         int Multiply(int a, int b)
         {
             return a * b;
