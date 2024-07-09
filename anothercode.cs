@@ -11,11 +11,11 @@ namespace CSharpTutorials
         static void Main(string[] args)
         {
             string message = "Hello World!!";
-        //Hello This is comment
+        //Add more comment
             Console.WriteLine(message);
         }
         
-
+        //This is a sample
         
         int Multiply(int a, int b)
         {
