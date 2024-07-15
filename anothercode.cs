@@ -12,8 +12,10 @@ namespace CSharpTutorials
         {
             string message = "Hello World!!";
           
-        //Random interface
-          
+        //Random comment
+
+
+            
         int Multiply(int a, int b)
         {
             return a * b;
