@@ -8,13 +8,14 @@ namespace HelloWorld
             System.Console.WriteLine("Hello World!");
         }
 
-        void AnotherFunction()
+        //add function for issue DSPB-11
+        void NewFunction()
         {
             return;
         }
 
         //add function for issue DSPB-11
-        void NewFunction()
+        void CompletedFunction()
         {
             return;
         }
