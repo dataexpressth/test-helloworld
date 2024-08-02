@@ -8,8 +8,8 @@ namespace HelloWorld
             System.Console.WriteLine("Hello World!");
         }
 
-        //add function for issue SDSP-11
-        void AnotherFunction()
+        //add function for issue DSPB-14
+        void NewFunction()
         {
             return;
         }
