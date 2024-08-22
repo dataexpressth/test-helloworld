@@ -14,5 +14,10 @@ namespace HelloWorld
             return;
         }
         //add comment for test
+        //
+        void AnotherFunction()
+        {
+            return;
+        }
     }
 }
