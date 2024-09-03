@@ -18,6 +18,12 @@ namespace CSharpTutorials
         {
             return a * b;
         }
+
+        // some random function
+        void sample()
+        {
+
+        }
     }
 } 
 // Random Code
