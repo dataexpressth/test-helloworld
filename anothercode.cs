@@ -18,6 +18,7 @@ namespace CSharpTutorials
         {
             return a * b;
         }
+
+        //add random comment
     }
 } 
-// Random Code
