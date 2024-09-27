@@ -13,7 +13,7 @@ namespace CSharpTutorials
             string message = "Hello World!!";
           
         //add new feature
-        //add another line of code
+        //add another line of codes
         int Multiply(int a, int b)
         {
             return a * b;
