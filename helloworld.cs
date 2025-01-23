@@ -7,17 +7,5 @@ namespace HelloWorld
             //add comment
             System.Console.WriteLine("Hello World!");
         }
-
-        //
-        void AnotherFunction()
-        {
-            return;
-        }
-        //add comment for test
-        //
-        void AnotherFunction()
-        {
-            return;
-        }
     }
 }
